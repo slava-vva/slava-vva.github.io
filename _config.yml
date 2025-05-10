@@ -1,0 +1,5 @@
+title: My Jekyll Site
+description: A minimal Jekyll starter
+theme: minima
+plugins:
+  - jekyll-feed
